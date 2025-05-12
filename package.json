@@ -1,0 +1,18 @@
+{
+  "name": "school2025-1",
+  "version": "1.0.0",
+  "description": "Site sobre cursos de programação",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "school2025-1"
+  },
+  "author": "Anderson",
+  "license": "MIT",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
